@@ -1,6 +1,6 @@
 <template>
   <div class="container">
-    <h1> Marie </h1>
+    <h1> Marie Røgler 👩🏽‍🦳 </h1>
   </div>
 </template>
 
